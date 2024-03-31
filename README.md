@@ -2,7 +2,6 @@
 Mi nombre es Francisco Schiuma, tengo 20 años. Ingrese el año pasado y estoy cursando materias de segundo salvo sistemas operativos y fisica II ya que arquitectura y fisica I las tengo pendientes :(
 ### Sobre mi
 - Hago natación y tambien me gusta hacer ejercicio en mi casa.
-- La última peli que vi fue Dune parte 2. Esta muy buena y me dio ganas de releer los libros.
 - Actualmente mi juego favorito es Baldur's gate 3.
 - Tengo 3 gatos y tendría mas si pudiera. 
 ![WhatsApp Image 2024-03-30 at 17 56 53 (1)](https://github.com/pdepjuevesTT/2024-presentacion-FranciscoSchiuma/assets/165206181/b3e87db2-812b-4582-8d36-70cc37c10146)
